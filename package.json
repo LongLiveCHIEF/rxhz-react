@@ -1,0 +1,26 @@
+{
+  "name": "rxhz-react",
+  "version": "0.1.0",
+  "description": "A rxHz plugin for utilizing React as a view library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./src ./test --ext .js,.jsx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NormalGravity/rxhz-react.git"
+  },
+  "keywords": [
+    "rxHz",
+    "RxHS",
+    "React",
+    "Reactive",
+    "FRP"
+  ],
+  "author": "Brian Vanderbusch <brian@normalgravity.com> (https://github.com/LongLiveCHIEF)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NormalGravity/rxhz-react/issues"
+  },
+  "homepage": "https://github.com/NormalGravity/rxhz-react"
+}
